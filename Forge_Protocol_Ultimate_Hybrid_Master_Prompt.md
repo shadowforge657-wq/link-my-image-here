@@ -1,6 +1,6 @@
 ---
-cover: "https://raw.githubusercontent.com/shadowforge657-wq/link-my-image-here/51e203190b66d0cc5e27ef40d37ae0a668ed950c/The%20Forge%20Protocol_%20AI%20Builder%20Hero%20Banner.png
-banner: "https://raw.githubusercontent.com/shadowforge657-wq/link-my-image-here/51e203190b66d0cc5e27ef40d37ae0a668ed950c/The%20Forge%20Protocol_%20AI%20Builder%20Hero%20Banner.png
+cover: https://raw.githubusercontent.com/shadowforge657-wq/link-my-image-here/51e203190b66d0cc5e27ef40d37ae0a668ed950c/The%20Forge%20Protocol_%20AI%20Builder%20Hero%20Banner.png
+banner: https://raw.githubusercontent.com/shadowforge657-wq/link-my-image-here/51e203190b66d0cc5e27ef40d37ae0a668ed950c/The%20Forge%20Protocol_%20AI%20Builder%20Hero%20Banner.png
 tags: [story, project]
 ---
 
